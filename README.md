@@ -1,0 +1,2 @@
+# cpp-projects
+ This repository contains a collection of my C++ projects, showcasing skills in algorithms, data structures, systems programming, and applied mathematics.  📂 Projects ____ – Short description, tools used, highlights. [Another Project] – What it does, how it works. 🛠️ Skills Demonstrated Object-Oriented Programming Algorithmic Efficiency Memory Management File I/O STL, Templates, and more ✅ Tips
