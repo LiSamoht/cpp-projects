@@ -1,0 +1,37 @@
+Enter number of generations: 8
+
+  0123456789012345678901
+ 0
+ 1         **     *
+ 2         * *   ** *
+ 3       **        *
+ 4    **** * *   **
+ 5    **  * ** ** *
+ 6   *      ***
+ 7    **  *  * *
+ 8     ***   * *
+ 9 **        *  *
+10* **        *   * **
+11* ** ** **  * * *
+12*   *   *** *       *
+13* *        ***  * *
+14 *      ***  **   *
+15        *     *      *
+16     * *      *  ** *
+17      *         *
+18
+19
+20
+
+========================================
+Partial grid statistical data displayed
+Grid size: 21 x 22
+Generation: 8
+==============================
+Total alive in row 10 = 7
+Total alive in col 10 = 5
+Total dead in row 16 = 16
+Total dead in col 1 = 19
+Total alive = 94
+Total dead = 368
+==============================

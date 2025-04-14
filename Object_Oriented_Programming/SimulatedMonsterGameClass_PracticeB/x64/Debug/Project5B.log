@@ -1,0 +1,10 @@
+﻿  balrog.cpp
+  creature.cpp
+  cyberdemon.cpp
+  demon.cpp
+  elf.cpp
+  human.cpp
+  p5b.cpp
+C:\Users\llmik\source\repos\Project5B\Project5B\p5b.cpp(28,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project5B.vcxproj -> C:\Users\llmik\source\repos\Project5B\x64\Debug\Project5B.exe

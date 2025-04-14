@@ -1,0 +1,5 @@
+﻿  mystring.cpp
+C:\Users\llmik\source\repos\Project4_CS10B\Project4_CS10B\mystring.cpp(21,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llmik\source\repos\Project4_CS10B\Project4_CS10B\mystring.cpp(32,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llmik\source\repos\Project4_CS10B\Project4_CS10B\mystring.cpp(122,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project4_CS10B.vcxproj -> C:\Users\llmik\source\repos\Project4_CS10B\x64\Debug\Project4_CS10B.exe
