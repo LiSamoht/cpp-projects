@@ -1,0 +1,5 @@
+﻿  Sequence.cpp
+C:\Users\llmik\source\repos\CS10C_26.2\CS10C_26.2\Sequence.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Sequence.cpp')
+  
+  CS10C_26.2.vcxproj -> C:\Users\llmik\source\repos\CS10C_26.2\x64\Debug\CS10C_26.2.exe

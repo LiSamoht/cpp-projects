@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\llmik\source\repos\CS10C_24.2LAB\CS10C_24.2LAB\main.cpp(49,53): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_24.2LAB\CS10C_24.2LAB\main.cpp(99,54): warning C4101: 'e': unreferenced local variable
+  OrderedPair.cpp
+  Generating Code...
+  CS10C_24.2LAB.vcxproj -> C:\Users\llmik\source\repos\CS10C_24.2LAB\x64\Debug\CS10C_24.2LAB.exe

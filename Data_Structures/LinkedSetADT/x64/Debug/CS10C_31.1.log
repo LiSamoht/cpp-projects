@@ -1,0 +1,18 @@
+﻿  LinkedSet.cpp
+  main.cpp
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(35,54): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(63,49): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(73,49): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(97,55): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(104,55): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(122,55): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(131,55): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(171,63): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(349,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+      C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(349,25):
+      the template instantiation context (the oldest one first) is
+          C:\Users\llmik\source\repos\CS10C_31.1\CS10C_31.1\main.cpp(26,5):
+          see reference to function template instantiation 'void displaySet<std::string>(const cs_set::LinkedSet<std::string> &)' being compiled
+  
+  Generating Code...
+  CS10C_31.1.vcxproj -> C:\Users\llmik\source\repos\CS10C_31.1\x64\Debug\CS10C_31.1.exe

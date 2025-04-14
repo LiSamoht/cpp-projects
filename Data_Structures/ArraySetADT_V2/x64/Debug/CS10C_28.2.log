@@ -1,0 +1,10 @@
+﻿  main.cpp
+  ArraySet.cpp
+C:\Users\llmik\source\repos\Todo\ArraySet.cpp(206,33): error C3861: 'elementindex': identifier not found
+  (compiling source file '../../Todo/main.cpp')
+  
+C:\Users\llmik\source\repos\Todo\ArraySet.cpp(206,33): error C2065: 'elementindex': undeclared identifier
+  (compiling source file '../../Todo/main.cpp')
+  
+C:\Users\llmik\source\repos\Todo\main.cpp(31,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

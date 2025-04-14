@@ -1,0 +1,7 @@
+﻿  bagtester.cpp
+C:\Users\llmik\source\repos\ArrayBagProject\ArrayBagProject\bagtester.cpp(29,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llmik\source\repos\ArrayBagProject\ArrayBagProject\bagtester.cpp(65,52): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\ArrayBagProject\ArrayBagProject\bagtester.cpp(81,48): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\ArrayBagProject\ArrayBagProject\bagtester.cpp(93,48): warning C4101: 'e': unreferenced local variable
+C:\Users\llmik\source\repos\ArrayBagProject\ArrayBagProject\bagtester.cpp(102,48): warning C4101: 'e': unreferenced local variable
+  ArrayBagProject.vcxproj -> C:\Users\llmik\source\repos\ArrayBagProject\x64\Debug\ArrayBagProject.exe
