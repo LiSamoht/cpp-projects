@@ -4,11 +4,9 @@ This repository contains a collection of my C++ projects, showcasing skills in a
 
 ---
 
-## 📚 Project Categories
-
 This repository is organized into the following main categories:
 
-### 🌳 Data Structures
+### Data Structures
 Implementations of various fundamental data structures.
 *   Max Heaps
 *   AVL Trees
@@ -23,7 +21,7 @@ Implementations of various fundamental data structures.
 *   Array Bag ADT
 *   General Containers (CS10C)
 
-### 💡 Algorithms
+### Algorithms
 Explorations of different algorithms and problem-solving techniques.
 *   Infix Expression Evaluator
 *   Recursive Search (Finding Largest Element)
@@ -38,7 +36,7 @@ Explorations of different algorithms and problem-solving techniques.
 *   Dynamic Memory Array Reversal
 *   Binary Search Guessing Game
 
-### 💻 Object-Oriented Programming
+### Object-Oriented Programming
 Projects focused on OOP principles and design patterns.
 *   Eight Queens Problem Solver (Class-based)
 *   Ordered Pairs Class
@@ -47,27 +45,10 @@ Projects focused on OOP principles and design patterns.
 *   Fraction Class
 *   Conway's Game of Life Simulation
 
-### ⚙️ Systems Programming
+### Systems Programming
 Examples demonstrating systems-level concepts and file handling.
 *   Student Score Evaluation (Structs)
 *   Calendar Generator
 *   Monthly Budget Tracker (Structs)
 *   Pyramid Pattern Generation
 
----
-
-## 🛠️ Skills Demonstrated
-
-*   Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)
-*   Data Structure Implementation (Trees, Heaps, Queues, Stacks, Sets, Bags, Dictionaries)
-*   Algorithmic Design & Analysis (Sorting, Searching, Recursion)
-*   Memory Management (Pointers, Dynamic Allocation)
-*   File I/O & Stream Handling
-*   Standard Template Library (STL) Usage
-*   Template Metaprogramming
-*   Structs and Data Organization
-*   Problem Solving & Logic
-
----
-
-✅ *More projects and updates coming soon. Each one will focus on clean design, real-world relevance, and mathematical depth.*
